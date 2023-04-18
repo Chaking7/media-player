@@ -1,1 +1,3 @@
 # media-player
+
+At the moment this project is largely unfinished but is a simple media player that can select a directory for music, pause, play, skip, go back through songs, and can cut certain parts of the mp3 for a song and currently will return that back to the folder of the program. I am interested in designing some playlist functions for this later as well as figuring out an effective way to cut out parts of a song more cleanly. How to make that happen at the moment I am unaware but it would be interesting to use something like exact start times that say a lyrics generator would have and having an option to cut it out based on a certain verse.
